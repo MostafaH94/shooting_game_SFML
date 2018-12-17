@@ -1,0 +1,13 @@
+﻿  Source.cpp
+g:\fci\intake 39\repos\shooting_game\shooting_game\source.cpp(61): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+g:\fci\intake 39\repos\shooting_game\shooting_game\source.cpp(168): warning C4326: return type of 'main' should be 'int' instead of 'void'
+g:\fci\intake 39\repos\shooting_game\shooting_game\source.cpp(243): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  shooting_game.vcxproj -> G:\FCI\Intake 39\repos\shooting_game\Debug\shooting_game.exe
